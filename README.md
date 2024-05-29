@@ -13,7 +13,7 @@
 - <b>REST API</b>
   - [REST API](https://github.com/)
 - <b>Active Directory</b>
-  - [Active Directory)](https://github.com/)
+  - [Active Directory](https://github.com/)
 
 <h2>📃 Certifications</h2>
 
